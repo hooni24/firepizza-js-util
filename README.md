@@ -18,4 +18,5 @@ string.removeHTMLTags('<h1>Hello World</h1>')
 ### Release Note
 - 1.0.x : npm publish test versions
 - 1.1.0 : service started
+- 1.1.1 : browser.smoothScroll parameter changed.
 ---
