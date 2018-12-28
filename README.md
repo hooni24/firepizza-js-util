@@ -1,6 +1,10 @@
 # 🔥🍕 firepizza-js-util
 ## javascript utility library
+
+New Pull Request is ALWAYS Welcome!
+
 ---
+
 ## INSTALL 
 ```javascript
 npm i firepizza-js-util --save
