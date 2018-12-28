@@ -6,18 +6,16 @@
 npm i firepizza-js-util --save
 ```
 
-## Load
+## USE
 ```javascript
-blah~
-```
+import { string } from 'firepizza-js-util'
 
-## Use
-```javascript
-blah~
+string.removeHTMLTags('<h1>Hello World</h1>')
 ```
 
 ### [More Details](https://github.com/hooni24/firepizza-js-util/wiki)
 ---
 ### Release Note
 - 1.0.x : npm publish test versions
+- 1.1.0 : service started
 ---
