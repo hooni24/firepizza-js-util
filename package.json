@@ -1,0 +1,23 @@
+{
+  "name": "firepizza-js-util",
+  "version": "1.0.0",
+  "description": "javascript utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hooni24/firepizza-js-util.git"
+  },
+  "keywords": [
+    "javascript",
+    "util"
+  ],
+  "author": "firepizza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hooni24/firepizza-js-util/issues"
+  },
+  "homepage": "https://github.com/hooni24/firepizza-js-util#readme"
+}
