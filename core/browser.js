@@ -31,8 +31,8 @@ const browserUtil = {
 	},
 
 	/** 해당 엘리먼트까지 부드럽게 이동시킴 */
-	smoothScroll (element) {
-		document.querySelector(element).scrollIntoView({
+	smoothScroll (selector) {
+		document.querySelector(selector).scrollIntoView({
 			behavior: 'smooth'
 		});
 	},
